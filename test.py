@@ -6,5 +6,5 @@ x = 14
 print('the answer is %d' % x)
 x=16
 print('the answer is {}'.format(x))
-x=19
+x=22
 print(f'the answer is {x}')
